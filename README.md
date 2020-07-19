@@ -17,5 +17,5 @@ My name is Andrey and I am a front-end developer
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="html" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/npm.svg" alt="html" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="html" style="vertical-align:top; margin:4px">
-<a href='https://www.codewars.com/users/Siberfox' target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codewars.svg" alt="html" style="vertical-align:top; margin:4px"></a>
+<a target="_blank" rel="noopener noreferrer" href='https://www.codewars.com/users/Siberfox'><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codewars.svg" alt="html" style="vertical-align:top; margin:4px"></a>
 </p>
